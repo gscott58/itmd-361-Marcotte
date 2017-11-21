@@ -1,2 +1,2 @@
-# itmd-361-marcotte
-Robot website "Responsive Web Design" book by Marcotte
+# itmd-361-Marcotte
+Ethan Marcotte Responsive Web Design
